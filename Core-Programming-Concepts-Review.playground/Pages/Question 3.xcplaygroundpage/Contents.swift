@@ -14,6 +14,18 @@
  
  */
 // Answer question 3 below
+var piggyBank = 0
+piggyBank = piggyBank + 10
+print("10")
+piggyBank = piggyBank + 20
+print("30")
+piggyBank = piggyBank / 2
+print("15")
+piggyBank = piggyBank * 3
+print("45")
+piggyBank = piggyBank - 3
+print("42")
+
 
 /*:
  ## Now share your understanding
