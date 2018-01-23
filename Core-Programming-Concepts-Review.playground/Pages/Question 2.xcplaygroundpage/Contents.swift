@@ -18,7 +18,16 @@
  
  */
 // Answer question 2 below
-
+var numberOfCommits = 20
+print("i made this a variable because the amount of commits coud change")
+var numberOfForks = 20
+print("i made this a variable because the amount of forks coud change")
+let yearCreated = 2018
+print("i made this a constant because the year it was made wont change")
+let monthCreated = 01
+print("i made this a constant because the month it was made wont change")
+let dayCreated = 22
+print("i made this a constant because the day it was made wont change")
 /*:
  ## Now share your understanding
  
